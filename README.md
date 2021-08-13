@@ -37,6 +37,23 @@ In order to run the tests, first you need to compile the application:
 
 ![Detox running](./docs/e2e-full-test.gif)
 
+## Exercise
+
+Tests are located under:
+
+* /e2e/my-test.test.js
+
+Please add as many tests as you think can cover the App functionality
+
+## Deliverable
+* **Source Code**: Either of the following ways to bundle the code, whatever is easier for you:
+    * A `zip` file containing the whole project. Remember to skip binaries, logs, etc if you choose this option.
+    * A link to an accessible private repository with your work in (Github or Bitbucket).
+
+* **Documentation** / **Instructions**: You can bundle it together with the code.
+    * A `Readme.md` file explaining the assumptions and decisions you've made solving this task including technology and library choices.
+    * Any instructions required to run your solution and tests in a Linux environment.
+
 ## License
 
 MIT.
