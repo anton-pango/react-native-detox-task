@@ -35,6 +35,8 @@ In order to run the tests, first you need to compile the application:
 ~ yarn e2e:ci
 ```
 
+![Detox running](./docs/e2e-full-test.gif)
+
 ## License
 
 MIT.
